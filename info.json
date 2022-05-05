@@ -1,0 +1,1 @@
+{"@context":"http://library.stanford.edu/iiif/image-api/1.1/context.json","@id":"9c29d23d-11b3-457c-809a-b19092d7617b","formats":["png"],"height":3000,"profile":"http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level0","qualities":["default"],"scale_factors":[1,2,4],"tile_height":512,"tile_width":512,"width":3000}
